@@ -1,6 +1,6 @@
 # Hi, I'm Sidney Stephen 👋
 
-**IT Technical Support I → aspiring IAM Engineer | CompTIA Security+ certified**
+**IT Technical Support I → IAM Engineer | CompTIA Security+ certified**
 
 I work in IT support and I'm building hands-on experience in Identity and Access Management: making sure the right people have the right access, and nothing more.
 
