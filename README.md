@@ -18,7 +18,7 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 ## 🧪 Featured labs
 
 - **[Entra ID Conditional Access Lab](https://github.com/sidneystephen/Entra-Conditional-Access-Lab)**: setting up Conditional Access policies in Microsoft Entra ID
-- **[Configuring Active Directory](https://github.com/sidneystephen/configuring-active-directory)**: building and managing an Active Directory environment
+
 
 ## 🎯 Currently
 
