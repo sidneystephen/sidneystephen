@@ -11,12 +11,12 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 **[CompTIA Security+ ce](https://www.credly.com/badges/5cc3d314-31da-413b-8e6d-72e551c7947a/public_url)**, verified on Credly
 
 
-## 🧪 Featured labs
+## Featured labs
 
 - **[JML LAB](https://github.com/sidneystephen/JML-LAB)**: Onboarding and offboarding with groups and access removals
 - **[Entra ID Conditional Access Lab](https://github.com/sidneystephen/Entra-Conditional-Access-Lab)**: setting up Conditional Access policies in Microsoft Entra ID
 
-## 🎯 Currently
+## Currently
 
 Open to **IAM Engineer** opportunities. Feel free to reach out!
 
