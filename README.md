@@ -4,7 +4,7 @@
 
 I work in IT support and I'm building hands-on experience in Identity and Access Management: making sure the right people have the right access, and nothing more.
 
-## 🏅 Certifications
+## Certifications
 
 <a href="https://www.credly.com/badges/5cc3d314-31da-413b-8e6d-72e551c7947a/public_url"><img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" alt="CompTIA Security+ ce Certification" width="120"></a>
 
