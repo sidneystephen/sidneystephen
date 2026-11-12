@@ -17,8 +17,8 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 
 ## 🧪 Featured labs
 
+- **[Joiner-Mover-Leaver (JML) Automation Lab](https://github.com/sidneystephen/JML-LAB)**: Python scripts that keep Authentik in sync with an HR system (OrangeHRM), creating accounts for new hires, swapping groups on transfers to prevent access creep, and disabling leavers
 - **[Entra ID Conditional Access Lab](https://github.com/sidneystephen/Entra-Conditional-Access-Lab)**: setting up Conditional Access policies in Microsoft Entra ID
-
 
 ## 🎯 Currently
 
