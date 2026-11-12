@@ -10,10 +10,6 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 
 **[CompTIA Security+ ce](https://www.credly.com/badges/5cc3d314-31da-413b-8e6d-72e551c7947a/public_url)**, verified on Credly
 
-## 🔐 What I work with
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 🧪 Featured labs
 
