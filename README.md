@@ -13,9 +13,9 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 
 ## Featured labs
 
-- **[JML LAB](https://github.com/sidneystephen/JML-LAB)**: Onboarding and offboarding with groups and access removals
+- **[jml-lab](https://github.com/sidneystephen/JML-LAB)**: Onboarding and offboarding with groups and access removals
 - **[authentik-totp-mfa-lab](https://github.com/sidneystephen/authentik-totp-mfa-lab/tree/main)**: Configured TOTP MFA (authenticator app codes) in Authentik
-- **[Entra ID Conditional Access Lab](https://github.com/sidneystephen/Entra-Conditional-Access-Lab)**: setting up Conditional Access policies in Microsoft Entra ID
+
 
 ## Currently
 
