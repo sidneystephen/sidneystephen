@@ -15,8 +15,8 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 
 - **[jml-lab](https://github.com/sidneystephen/JML-LAB)**: Onboarding and offboarding with groups and access removals
 - **[authentik-totp-mfa-lab](https://github.com/sidneystephen/authentik-totp-mfa-lab/tree/main)**: Configured TOTP MFA in Authentik
-- **[WordPress-SSO-with-Authentik](https://github.com/sidneystephen/wordpress-authentik-saml-sso)** WordPress SSO with Authentik (SAML)
-
+- **[wordPress-sso-with-authentik](https://github.com/sidneystephen/wordpress-authentik-saml-sso)** WordPress SSO with Authentik (SAML)
+- **[group-based-access](https://github.com/sidneystephen/wordpress-group-based-access)** Group-Based Access to WordPress with Authentik
 ## Currently
 
 Open to **IAM Engineer** opportunities. Feel free to reach out!
