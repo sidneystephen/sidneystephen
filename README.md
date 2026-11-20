@@ -9,7 +9,7 @@ I work in IT support and I'm building hands-on experience in Identity and Access
 <a href="https://www.credly.com/badges/5cc3d314-31da-413b-8e6d-72e551c7947a/public_url"><img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" alt="CompTIA Security+ ce Certification" width="120"></a>
 
 **[CompTIA Security+ ce](https://www.credly.com/badges/5cc3d314-31da-413b-8e6d-72e551c7947a/public_url)**, verified on Credly
-
+**[ITIL v4](https://badges.peoplecert.org/Badges/Assertion/en/b7eeb485-3495-45d8-9233-47becee97262)**, verified on Credly
 
 ## Featured labs
 
